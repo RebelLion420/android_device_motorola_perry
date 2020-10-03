@@ -1,5 +1,5 @@
 ### All blobs from this list, unless pinned and noted as otherwise,
-##  are from montana_retail 8.1.0 OPPS28.65-37-7-12
+##  are from perry_retail 8.1.0 OPPS28.65-37-7-12
 
 # Audio ACDB
 etc/acdbdata/Bluetooth_cal.acdb:vendor/etc/acdbdata/Bluetooth_cal.acdb
@@ -100,7 +100,7 @@ vendor/lib/com.fingerprints.extension@1.0_vendor.so
 # NFC
 vendor/firmware/libpn548ad_fw.so:vendor/lib/libpn548ad_fw.so
 
-# NFC - from montana - NZS26.68-117-10
+# NFC - from perry - NZS26.68-117-10
 vendor/firmware/libpn553_fw.so:vendor/lib/libpn553_fw.so|79435a8077d05c9f1865860e97b157029e834a63
 
 # Opalum firmware
@@ -129,5 +129,5 @@ vendor/lib64/sensors.ssc.so|761d2b907b60176a8ef77e7f9296337b936a5351
 vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so|4ca1d6dbe9acfbc762234b622ab2e7fa3328275d
 
 # Touchscreen firmware
-etc/firmware/synaptics-inx-s3603r-17042001-27111d-montana.tdat:vendor/firmware/synaptics-inx-s3603r-17042001-27111d-montana.tdat
-etc/firmware/synaptics-tianma-s3603r-17041102-27111d-montana.tdat:vendor/firmware/synaptics-tianma-s3603r-17041102-27111d-montana.tdat
+etc/firmware/synaptics-inx-s3603r-17042001-27111d-perry.tdat:vendor/firmware/synaptics-inx-s3603r-17042001-27111d-perry.tdat
+etc/firmware/synaptics-tianma-s3603r-17041102-27111d-perry.tdat:vendor/firmware/synaptics-tianma-s3603r-17041102-27111d-perry.tdat

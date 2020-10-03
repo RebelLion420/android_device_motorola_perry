@@ -1,9 +1,9 @@
 Copyright (C) 2019 The LineageOS Project
 
-Device configuration for Moto G5S (montana)
+Device configuration for Moto E4 (perry)
 ==================================================
 
-The Motorola Moto G5S (codenamed _"montana"_) is a low-mid range smartphone from Motorola mobility.
+The Motorola Moto E4 (codenamed _"perry"_) is a low-mid range smartphone from Motorola mobility.
 
 ## Device specifications
 
@@ -21,4 +21,4 @@ The Motorola Moto G5S (codenamed _"montana"_) is a low-mid range smartphone from
 
 ## Device picture
 
-![Motorola Moto G5S](https://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g5s-2.jpg "Moto G5S")
+![Motorola Moto E4](https://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-perry-2.jpg "Moto E4")

@@ -8,7 +8,7 @@
 $(call inherit-product, device/motorola/msm8937-common/msm8937.mk)
 
 # Get non-open-source specific aspects
-$(call inherit-product-if-exists, vendor/motorola/montana/montana-vendor.mk)
+$(call inherit-product-if-exists, vendor/motorola/perry/perry-vendor.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
@@ -101,4 +101,4 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Touch
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.montana
+    vendor.lineage.touch@1.0-service.perry
